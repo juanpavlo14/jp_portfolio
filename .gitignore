@@ -1,6 +1,3 @@
-# Folder for saving files
-files/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
